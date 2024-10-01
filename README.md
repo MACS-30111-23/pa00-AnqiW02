@@ -18,7 +18,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 1. Majors in Undergrad: Mathematics & Psychology
 1. Birthday: *February 22nd, 2002*
 1. Hobbies: Animation, Musicals & Museum
-1. My Linked Page: [www.linkedin.com/in/anqi-wei]
+1. [My Linkedin Page](www.linkedin.com/in/anqi-wei)
 1. 
 
 ## 📚  Resources 
