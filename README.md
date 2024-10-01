@@ -21,13 +21,14 @@ Edit this README file to include a brief biography of yourself. Your README shou
 1. [My Linkedin Page](www.linkedin.com/in/anqi-wei)
 1. Recent favorite place of Uchicago: Rockefeller Chapel!
    
-   ![convocation](https://github.com/user-attachments/assets/3d2d14c4-b187-4902-816c-78e7b2f7b0bf)
+   ![Rockefeller Chapel](convocation.jpg)
 
 ## Summary of Work
 * Accepted the assignment via **Github Classroom**
 * Updated *script.py* with the command of printing *"Hello,World!"*
 * Added **A Brief Biography** and **Summary of Work** sections to README
-* Completed my first PA of MACSS 30111!
+* Completed my first PA of MACSS 30111! 🎉
+* Tried the first time and felt amazing on how to embed a picture into README
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
