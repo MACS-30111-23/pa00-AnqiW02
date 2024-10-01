@@ -11,8 +11,15 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
-
-
+## A Brief Biography 📖
+1. Name: **Anqi Wei**
+1. Gender: Female
+1. Hometown: Hefei, Anhui, China
+1. Majors in Undergrad: Mathematics & Psychology
+1. Birthday: *February 22nd, 2002*
+1. Hobbies: Animation, Musicals & Museum
+1. My Linked Page: [www.linkedin.com/in/anqi-wei]
+1. 
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
