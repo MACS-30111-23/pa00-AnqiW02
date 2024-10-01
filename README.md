@@ -11,7 +11,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
-## A Brief Biography 📖
+## 📖 A Brief Biography
 1. Name: **Anqi Wei**
 1. Gender: Female
 1. Hometown: Hefei, Anhui, China
@@ -19,7 +19,14 @@ Edit this README file to include a brief biography of yourself. Your README shou
 1. Birthday: *February 22nd, 2002*
 1. Hobbies: Animation, Musicals & Museum
 1. [My Linkedin Page](www.linkedin.com/in/anqi-wei)
-1. 
+1. Recent favorite place of Uchicago: Rockefeller Chapel!
+   ![Photo Convocation](/Users/angelew/Documents/Desktop/convocation.jpg)
+
+## Summary of Work
+* Accepted the assignment via **Github Classroom**
+* Updated *script.py* with the command of printing "Hello World"
+* Added **A Brief Biography** and **Summary of Work** sections
+* Completed my first PA of MACSS 30111!
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
